@@ -1,5 +1,5 @@
 <h1 align="center">
-  #JaxCore
+  #JaxCorePlus
 </h1>
 
-A skin for configurating my other skins, with built in installer, updater, settings and more. 
+Now JaxCore Looks smooth & awesome :)
